@@ -1,0 +1,22 @@
+{
+       "usuarios": [
+        {
+          "id":"1",
+          "nome":"Victor Turatti",
+          "email":"victorturattioliveira@gmail.com",
+          "senha": "1234"
+        },
+        {
+          "id":"2",
+          "nome":"Bruno Cortez",
+          "email":"bruninho@gmail.com",
+          "senha": "4321"
+        },
+        {
+          "id":"3",
+          "nome":"João Carlos",
+          "email":"joaocarloslima@me.com",
+          "senha": "nota10"
+        }
+      ]
+    }
